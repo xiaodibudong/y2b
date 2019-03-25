@@ -1,13 +1,13 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyCVkRcSiF0KmLCwmoo4edtw0vnSykCvFcc');
+define('APIKEY', 'AIzaSyDNTlwQ6IS9wFL2oxWBi9EWC5e6CctU1uU');
 define('GJ_CODE', 'US');
-define('SITE_NAME', 'y2b');
-define('TITLENAME', 'y2b');
+define('SITE_NAME', 'xiaodibudong');
+define('TITLENAME', 'xiaodibudong');
 define('EN2DEKEY', '32123wwerwer323tgfdgds');
-define('EMAIL', '1334347212@qq.com');
-define('NAME', 'admin');
-define('PASSWORD', 'admin');
+define('EMAIL', 'jatquxht@aliun.com');
+define('NAME', 'xiaodi');
+define('PASSWORD', '327629533');
 define('LOGINHTML', '<!DOCTYPE html>
 <html lang="en">
 <head>
