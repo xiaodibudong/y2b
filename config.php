@@ -5,7 +5,7 @@ define('GJ_CODE', 'US');
 define('SITE_NAME', 'xiaodibudong');
 define('TITLENAME', 'xiaodibudong');
 define('EN2DEKEY', '32123wwerwer323tgfdgds');
-define('EMAIL', 'jatquxht@aliun.com');
+define('EMAIL', 'jatquxht@aliyun.com');
 define('NAME', 'xiaodi');
 define('PASSWORD', '327629533');
 define('LOGINHTML', '<!DOCTYPE html>
